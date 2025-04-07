@@ -1,4 +1,4 @@
-# Security-Automation-with-Shuffle-SOAR
+# SOC Automation Lab
 
 ## Objective
 [Brief Objective - Remove this afterwards]
